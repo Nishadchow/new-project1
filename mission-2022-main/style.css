@@ -1,0 +1,76 @@
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+h1{
+
+}
+.orange-color{
+    color:orange
+}
+.focus{
+    border-left: 4px solid;
+    border-image: linear-gradient(blue, red)
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(214, 8, 32), rgb(220, 5, 27));
+    background-color: rgb(232, 90, 39);
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.flexible-element{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width img{
+    width: 100%;
+}
+footer{
+    padding-top: 40px;
+}
+.second-head{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.mission-box{
+    width: 30%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    border-radius: 10px;
+}
+.box-1{
+    background-color: skyblue;
+}
+.box-2{
+    background-color: rgb(252, 145, 237);
+}
+.box-3{
+    background-color: antiquewhite;
+}
+.small-logo{
+    width: 50%;
+    padding-top: 20px;
+}
+.third-sec{
+    padding-top: 50px;
+    text-align:left;
+    position: sticky;
+}
+.last-mission{
+    color: maroon;
+}
+.last-footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+}
